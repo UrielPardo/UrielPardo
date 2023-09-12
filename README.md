@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uriel Pardo 👨‍💻</h1>
 <h3 align="left">Connect with me: </h3>
-<p>[instagram](https://www.instagram.com/uriell_pardo/)</p>
+<p>[instagram](https://www.instagram.com/uriell_pardo)</p>
 
 
 <p align="left">
